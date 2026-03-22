@@ -82,7 +82,7 @@ endmodule
 <img width="1246" height="744" alt="Screenshot 2026-02-09 230441" src="https://github.com/user-attachments/assets/15f1e788-3bb1-4433-9e2d-c714f93254e6" />
 
 ## RTL realization Output:
-<img width="887" height="722" alt="Screenshot 2026-02-09 225544" src="https://github.com/user-attachments/assets/71a092fe-c76a-4c1a-ae6a-4e536f88e3ae" />
+![DE exp1](https://github.com/user-attachments/assets/9c2175f7-c716-49fa-b30c-f1a2c0627d9d)
 
 ## RTL:
 <img width="1917" height="963" alt="Screenshot 2026-02-09 225520" src="https://github.com/user-attachments/assets/d35eab59-8b55-43db-b423-1ad37a082223" />
